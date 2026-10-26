@@ -1,6 +1,6 @@
 # Semiconductor Internships & New-Grad Jobs
 
-A daily-updated list of semiconductor internships and new-grad roles for [Olin EDGE Consortium](https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965) scholars.
+A daily-updated list of semiconductor internships and new-grad roles for [Olin EDGE Consortium](https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965) scholars, part of the national [EDGE Consortium](https://www.edgeconsortium.org/).
 
 ### 🔎 [Search, filter and track your applications on the website →](https://rcyaon.github.io/semiconductor-jobs/)
 
@@ -1230,7 +1230,7 @@ These can't be scraped because they need a login or have no public data:
 | [SIA Jobs](https://www.semiconductors.org/sia-jobs/) | The Semiconductor Industry Association's board. |
 | [Handshake](https://joinhandshake.com) | Where companies recruiting at your school post. |
 | [LinkedIn Jobs](https://www.linkedin.com/jobs/) | Covers everything else. Set an alert for "semiconductor intern". |
-| [Olin EDGE Consortium](https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965) events | Talent-acquisition webinars and site visits are a hiring pipeline, so treat them as such. |
+| [EDGE Consortium](https://www.edgeconsortium.org/) and [Olin EDGE](https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965) events | Talent-acquisition webinars and site visits are a hiring pipeline, so treat them as such. |
 | Not scraped yet | Their career sites block scrapers or have no public data: TSMC Arizona, ASML, Sandisk, Rambus, MACOM, Amkor, Ampere, Synaptics, Power Integrations, Ayar Labs. |
 
 <details>

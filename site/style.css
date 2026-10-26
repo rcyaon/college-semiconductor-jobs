@@ -1,5 +1,5 @@
 /* Visual language follows edgeconsortium.org: cream paper, deep navy ink,
-   Poppins for UI + headings, Spectral for reading text, the lime→green→cyan
+   Poppins throughout, the lime→green→cyan
    gradient, near-square corners and clipped "cut" corners on tiles. */
 :root {
   --bg: #FAF7EF;
@@ -27,7 +27,6 @@
   --new-soft: #FCE9E0;
   --grad: linear-gradient(90deg, #8CC63F, #6AC67F, #31C5E8);
   --font-ui: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --font-body: "Spectral", Georgia, serif;
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
@@ -55,7 +54,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font: 16.5px/1.7 var(--font-body);
+  font: 15px/1.65 var(--font-ui);
   -webkit-font-smoothing: antialiased;
 }
 h1, h2, h3 { font-family: var(--font-ui); line-height: 1.15; text-wrap: balance; }
@@ -87,14 +86,14 @@ a { color: inherit; }
 .nav { position: relative; display: flex; align-items: center; gap: 36px; padding-top: 22px; padding-bottom: 22px; }
 .brand { display: inline-flex; align-items: center; gap: 10px; font: 700 19px/1 var(--font-ui); letter-spacing: -.01em; text-decoration: none; color: #fff; }
 .brand-mark { width: 18px; height: 18px; background: var(--grad); clip-path: polygon(0 0, 100% 0, 100% 62%, 62% 100%, 0 100%); }
-.nav-links { display: flex; gap: 28px; list-style: none; margin: 0 0 0 auto; padding: 0; font: 500 12.5px/1 var(--font-ui); text-transform: lowercase; }
+.nav-links { display: flex; gap: 28px; list-style: none; margin: 0 0 0 auto; padding: 0; font: 500 13px/1 var(--font-ui); }
 .nav-links a { color: rgba(255, 255, 255, .78); text-decoration: none; }
 .nav-links a:hover { color: #fff; }
 .hero-copy { position: relative; padding-top: 44px; padding-bottom: 64px; max-width: 900px; }
 .eyebrow { font: 700 12.5px/1 var(--font-ui); letter-spacing: .09em; text-transform: uppercase; color: var(--cyan); margin: 0 0 16px; }
 .hero h1 { font-size: clamp(30px, 4.4vw, 50px); font-weight: 700; letter-spacing: -.02em; margin: 0 0 18px; }
 .grad-text { background: var(--grad); -webkit-background-clip: text; background-clip: text; color: transparent; }
-.lede { font-size: 18.5px; color: rgba(255, 255, 255, .82); margin: 0; max-width: 680px; }
+.lede { font-size: 17px; font-weight: 400; line-height: 1.65; color: rgba(255, 255, 255, .8); margin: 0; max-width: 680px; }
 .updated { display: block; margin-top: 14px; font: 500 12.5px/1 var(--font-ui); letter-spacing: .06em; text-transform: uppercase; color: rgba(255, 255, 255, .6); }
 .grad-rule { position: relative; height: 4px; background: var(--grad); }
 
@@ -172,10 +171,10 @@ table.jobs { width: 100%; border-collapse: collapse; }
 .jobs tbody tr:hover { background: var(--bg); }
 .jobs tr:last-child td { border-bottom: 0; }
 .jobs .co { font: 600 14px/1.4 var(--font-ui); white-space: nowrap; }
-.jobs .role { font-size: 16.5px; line-height: 1.45; }
+.jobs .role { font-size: 15px; font-weight: 500; line-height: 1.45; }
 .jobs .role a { color: var(--ink); text-decoration: none; }
 .jobs .role a:hover { color: var(--cyan-deep); text-decoration: underline; text-underline-offset: 3px; }
-.jobs .loc { color: var(--ink-soft); font-size: 15px; max-width: 260px; }
+.jobs .loc { color: var(--ink-soft); font-size: 13.5px; max-width: 260px; }
 .jobs .date { color: var(--ink-soft); font: 500 13px/1.6 var(--font-ui); white-space: nowrap; font-variant-numeric: tabular-nums; }
 .jobs .st select { padding: 6px 8px; font-size: 13px; background: var(--bg); }
 .jobs .st select[data-status="Saved"] { border-color: var(--ink-soft); }
@@ -189,7 +188,7 @@ table.jobs { width: 100%; border-collapse: collapse; }
   transition: background .18s, color .18s;
 }
 .apply:hover { background: var(--cyan-hover); color: #0B1C29; }
-.empty { text-align: center; color: var(--ink-soft); padding: 48px 14px; font-style: italic; }
+.empty { text-align: center; color: var(--ink-soft); padding: 48px 14px; }
 
 .badge { display: inline-block; font: 700 10.5px/1 var(--font-ui); letter-spacing: .07em; text-transform: uppercase; padding: 4px 7px 3px; border-radius: 2px; margin-left: 6px; vertical-align: 2px; white-space: nowrap; }
 .badge.new { background: var(--new-soft); color: var(--new); }
@@ -200,7 +199,7 @@ table.jobs { width: 100%; border-collapse: collapse; }
 .more { display: flex; margin: 22px auto; }
 
 /* ---------------------------------------------------------------- footer */
-.foot { margin-top: 48px; padding: 28px 0 56px; border-top: 1px solid var(--line); color: var(--ink-soft); font-size: 15px; }
+.foot { margin-top: 48px; padding: 28px 0 56px; border-top: 1px solid var(--line); color: var(--ink-soft); font-size: 13.5px; }
 .foot p { margin: 6px 0; }
 .foot a { color: var(--cyan-deep); text-underline-offset: 3px; }
 
@@ -210,7 +209,7 @@ dialog::backdrop { background: rgba(11, 28, 41, .6); }
 .dialog { padding: 0 26px 24px; }
 .dialog::before { content: ""; display: block; height: 4px; margin: 0 -26px 22px; background: var(--grad); }
 .dialog h2 { margin: 0 0 10px; font-size: 21px; }
-.dialog p, .dialog li { font-size: 15.5px; }
+.dialog p, .dialog li { font-size: 14px; }
 .dialog a { color: var(--cyan-deep); }
 .dialog input { width: 100%; padding: 10px 12px; margin-top: 6px; background: var(--bg); }
 .dialog .error { color: var(--new); font-family: var(--font-ui); font-size: 13.5px; }
@@ -224,7 +223,7 @@ code { font-size: 13px; background: var(--paper-2); padding: 1px 6px; border-rad
   .nav-links { margin-left: 0; order: 3; width: 100%; gap: 20px; }
   .account { margin-left: auto; }
   .hero-copy { padding-top: 20px; padding-bottom: 44px; }
-  .lede { font-size: 16.5px; }
+  .lede { font-size: 15.5px; }
   .stats { grid-template-columns: repeat(2, 1fr); margin-top: 28px; }
   .stats .stat:last-child { grid-column: span 2; }
   .tabs { gap: 18px; }
@@ -234,7 +233,7 @@ code { font-size: 13px; background: var(--paper-2); padding: 1px 6px; border-rad
   .jobs tr { padding: 14px 16px; border-bottom: 1px solid var(--line); }
   .jobs td { border: 0; padding: 2px 0; max-width: none; }
   .jobs .co { font-size: 12px; letter-spacing: .07em; text-transform: uppercase; color: var(--ink-soft); }
-  .jobs .role { font-size: 17px; }
+  .jobs .role { font-size: 15.5px; }
   .jobs .date::before { content: "Posted "; }
   .jobs .st, .jobs .go { display: inline-block; width: auto; margin-top: 10px; margin-right: 8px; text-align: left; }
 }
