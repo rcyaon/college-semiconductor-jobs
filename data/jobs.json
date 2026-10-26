@@ -1,62 +1,2882 @@
 [
  {
   "category": "Internship",
-  "company": "Silicon Labs",
-  "title": "Applications Engineering Intern - Wireless IoT",
-  "location": "Budapest",
+  "company": "AMD",
+  "title": "2027 Masters ASIC Package Engineering Co-op/Intern",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Secaucus, New Jersey; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-25",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91471?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Compiler Engineering Intern / Co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; San Jose, California; Santa Clara, California",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91867?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Data Analyst Intern/co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Fishkill, New York; Longmont, Colorado; Rochester, New York; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91183?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Firmware Engineering Co-op/Intern",
+  "location": "San Jose, California; Santa Clara, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90809?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Firmware Engineering Intern/Co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Rochester, New York; Secaucus, New Jersey",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90805?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Hardware Design Verification Engineering Co-op/Intern",
+  "location": "San Jose, California; Santa Clara, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90810?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Hardware Design Verification Engineering Intern/Co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Rochester, New York; Secaucus, New Jersey",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90813?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Hardware Engineering intern/co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Rochester, New York; Fishkill, New York; Longmont, Colorado; Fort Collins, Colorado; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91182?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Rochester, New York; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91181?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Product Development Engineering Intern/Co-op",
+  "location": "Austin, Texas; Fort Collins, Colorado; Longmont, Colorado; Rochester, New York; Fishkill, New York; Boxborough, Massachusetts; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91230?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Software Engineer Intern/Co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Rochester, New York; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91180?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Software Test Engineering Intern/Co-Op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Secaucus, New Jersey; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-25",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91477?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Masters Thermal Engineering Intern/Co-Op",
+  "location": "Austin, Texas; Secaucus, New Jersey; Santa Clara, California",
+  "posted": "2026-10-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/93646?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 PhD AI Model Optimization & Software Engineer Intern/Co-op",
+  "location": "San Jose, California; Santa Clara, California; Austin, Texas",
+  "posted": "2026-10-21",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/92522?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 PhD AI Training Systems and Performance Engineer Intern/Co-Op",
+  "location": "San Jose, California",
   "posted": "2026-10-05",
   "first_seen": "2026-10-25",
-  "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Applications-Engineering-Intern---Wireless-IoT_21100-1",
+  "url": "https://careers.amd.com/jobs/93332?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 PhD Analog/Mixed-Signal SerDes Design Intern/Co-op",
+  "location": "San Jose, California; Santa Clara, California",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/92346?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 PhD HPC & Sovereign AI Center of Excellence Intern/Co-op",
+  "location": "Austin, Texas",
+  "posted": "2026-09-21",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/92691?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 PhD Photonics Engineering Intern/Co-Op",
+  "location": "San Jose, California; Santa Clara, California",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/92358?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 PhD SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op",
+  "location": "San Jose, California; Santa Clara, California",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/92350?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad ASIC Package Engineering Co-op/Intern",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Secaucus, New Jersey; San Jose, California; Santa Clara, California",
+  "posted": "2026-08-25",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91466?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Compiler Engineering Intern / Co-op",
+  "location": "Santa Clara, California; San Jose, California; Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91865?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Data Analyst Intern/co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Rochester, New York; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91175?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Firmware Engineering Co-op/Intern",
+  "location": "Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90807?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Firmware Engineering Intern/Co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Rochester, New York; Fishkill, New York; Secaucus, New Jersey",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90801?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Hardware Design Verification Engineering Co-op/Intern",
+  "location": "San Jose, California; Santa Clara, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90811?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Hardware Design Verification Engineering Intern/Co-Op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Rochester, New York; Secaucus, New Jersey",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90820?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Hardware Engineering intern/co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Fishkill, New York; Longmont, Colorado; Rochester, New York; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91173?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Machine Learning (ML)/ Artificial Intelligence (AI) intern/co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Rochester, New York; Fishkill, New York; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91170?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Product Development Engineering Intern/Co-op",
+  "location": "Santa Clara, California; San Jose, California; Austin, Texas; Boxborough, Massachusetts; Rochester, New York; Fishkill, New York; Longmont, Colorado; Fort Collins, Colorado",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91227?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Program Management Intern/Co-op",
+  "location": "Austin, Texas",
+  "posted": "2026-09-24",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/92880?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Software Engineer Intern/Co-op",
+  "location": "Austin, Texas; Boxborough, Massachusetts; Fort Collins, Colorado; Longmont, Colorado; Fishkill, New York; Rochester, New York; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90947?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Software Test Engineering Intern/Co-Op",
+  "location": "San Jose, California; Austin, Texas; Boxborough, Massachusetts; Fishkill, New York; Fort Collins, Colorado; Longmont, Colorado; Secaucus, New Jersey",
+  "posted": "2026-08-25",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91448?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Supply Chain Co-Op/Intern",
+  "location": "Austin, Texas",
+  "posted": "2026-09-10",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/92244?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "2027 Undergrad Thermal Engineering Intern/Co-Op",
+  "location": "Austin, Texas; Secaucus, New Jersey; Santa Clara, California",
+  "posted": "2026-10-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/93644?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Fall 2027 Masters Silicon Design Engineering Intern",
+  "location": "Austin, Texas",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90743?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Spring/Summer 2027 PhD AI Agentic/ML System Co-op",
+  "location": "San Jose, California",
+  "posted": "2026-10-05",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91767?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Spring/Summer 2027 PhD Large Language Model Engineer Co-op",
+  "location": "San Jose, California",
+  "posted": "2026-10-05",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91764?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Student Associate - Fixed Term",
+  "location": "Yerevan, Armenia",
+  "posted": "2026-10-01",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/93203?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern",
+  "location": "Santa Clara, California",
+  "posted": "2026-09-21",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91013?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Summer 2027 Masters Digital Signal Processing Engineer Intern",
+  "location": "San Jose, California",
+  "posted": "2026-09-24",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/89078?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Summer 2027 Masters Field Applications Engineer Intern",
+  "location": "San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91239?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Summer 2027 Masters Finance Intern",
+  "location": "Austin, Texas; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91238?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Summer 2027 PhD AI Research Infrastructure, RL Post-Training Intern",
+  "location": "Santa Clara, California",
+  "posted": "2026-09-21",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90950?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern",
+  "location": "Santa Clara, California",
+  "posted": "2026-09-21",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/90910?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "AMD",
+  "title": "Summer 2027 Undergrad Finance Intern",
+  "location": "Austin, Texas; Santa Clara, California; San Jose, California",
+  "posted": "2026-08-20",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/91234?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "Internship",
+  "company": "Arm",
+  "title": "Intern Program - Engineering Pathways",
+  "location": "Multiple locations",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.arm.com/job/manchester/intern-program-engineering-pathways/33099/101556166016",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Analog Design Engineer",
+  "location": "Austin, Texas",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Design Verification Engineer",
+  "location": "Austin, Texas",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Digital Design Engineer",
+  "location": "Austin, Texas",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Embedded Software Test Engineer",
+  "location": "Austin, Texas",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/db51b041-8f20-48e0-af08-be71201a8175",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Mixed Signal Products Applications Engineer",
+  "location": "Austin, Texas",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/2ca7b254-5c91-4a4e-9ba8-d05c8604eca2",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Product Test Engineer",
+  "location": "Austin, Texas",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/46a841b3-e3ce-4c78-b010-0e9cfe9e0f8e",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Systems Engineering - Power & Control",
+  "location": "Austin, Texas",
+  "posted": "2026-10-15",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/76f89050-2cda-4c96-b796-94346c98f896",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Internship - Validation Engineer",
+  "location": "Austin, Texas",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/89813bb2-94fb-42f6-aec2-03154cfde027",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Cirrus Logic",
+  "title": "2027 Software Internship",
+  "location": "London",
+  "posted": "2026-10-06",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/8a27643f-35d8-44f2-b8f3-2318a3d26d4d",
+  "source": "lever"
+ },
+ {
+  "category": "Internship",
+  "company": "Onto Innovation",
+  "title": "Mechanical Systems Engineer Intern",
+  "location": "Bloomington-MN",
+  "posted": "30+ days ago",
+  "first_seen": "2026-10-25",
+  "url": "https://wd1.myworkdaysite.com/recruiting/onto/ONTO_Careers/job/Bloomington-MN/Mechanical-Systems-Engineer-Intern_R-5723",
   "source": "workday"
  },
  {
   "category": "Internship",
-  "company": "Silicon Labs",
-  "title": "Summer 2027 Internships",
-  "location": "Austin",
-  "posted": "30+ days ago",
+  "company": "Qualcomm",
+  "title": "Automotive Engineering Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-18",
   "first_seen": "2026-10-25",
-  "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Summer-2027-Internships_21056-1",
-  "source": "workday"
+  "url": "https://careers.qualcomm.com/careers/job/446720740553",
+  "source": "eightfold"
  },
  {
   "category": "Internship",
-  "company": "Silicon Labs",
-  "title": "Summer 2027 Internships - Design Engineering",
-  "location": "Austin",
-  "posted": "30+ days ago",
+  "company": "Qualcomm",
+  "title": "Embedded Engineering Internship - Summer 2027",
+  "location": "San Diego, California, United States of America; Boxborough, Massachusetts, United States of America; Santa Clara, California, United States of America",
+  "posted": "2026-09-21",
   "first_seen": "2026-10-25",
-  "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Summer-2027-Internships----Design-Engineering_21049-1",
-  "source": "workday"
+  "url": "https://careers.qualcomm.com/careers/job/446720737089",
+  "source": "eightfold"
  },
  {
-  "category": "New Grad",
-  "company": "Silicon Labs",
-  "title": "RF Validation Engineer I",
-  "location": "Austin",
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Finance & Accounting Internship - Summer 2027",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446721159170",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "FY27 Intern - Business Development/Sales intern - Colombia Remote",
+  "location": "Colombia - Remote, Colombia; Remote",
+  "posted": "2026-06-26",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446719378698",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America; Austin, Texas, United States of America; Boxborough, Massachusetts, United States of America; Tempe, Arizona, United States of America; Santa Clara, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740649",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Information Technology (IT) Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720741716",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Intern Engineer",
+  "location": "Tijuana, Baja California, Mexico",
+  "posted": "2026-08-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720376777",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Intern Hardware Engineer (Electronics Engineer)",
+  "location": "Tijuana, Baja California, Mexico",
+  "posted": "2026-08-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720376932",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Intern Hardware Engineer (Embedded Systems and Python)",
+  "location": "Tijuana, Baja California, Mexico",
+  "posted": "2026-08-11",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720362138",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Intern Hardware Engineer Digital PDTE",
+  "location": "Tijuana, Baja California, Mexico",
+  "posted": "2026-10-08",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446719590657",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720741668",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America; Austin, Texas, United States of America; Boxborough, Massachusetts, United States of America; New Jersey, United States of America; New York City, New York, United States of America; Raleigh, North Carolina, United States of America; Santa Clara, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740525",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Mechanical Engineering Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America; Austin, Texas, United States of America; Santa Clara, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720741704",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Modular Engineering Internship \u2013 Summer 2027",
+  "location": "Los Altos, California, United States of America",
+  "posted": "2026-10-02",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446721246663",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Multimedia Engineering Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America; Santa Clara, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740640",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Product Management Internship - Summer 2027",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720741706",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740540",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "RF/Analog Design/Mixed-Signal Engineering Internship \u2013 Summer 2027",
+  "location": "San Diego, California, United States of America; Tempe, Arizona, United States of America; Irvine, California, United States of America; Santa Clara, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740912",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Sales & Business Development Internship - Summer 2027",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-30",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446721346084",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740636",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Software Engineering Internship - Summer 2027",
+  "location": "San Diego, California, United States of America; Austin, Texas, United States of America; Boxborough, Massachusetts, United States of America; New Jersey, United States of America; Tempe, Arizona, United States of America; Irvine, California, United States of America; Louisville, Kentucky, United States of America; New York City, New York, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740529",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Qualcomm",
+  "title": "Wireless Systems Engineering Internship - Summer 2027",
+  "location": "San Diego, California, United States of America; Boxborough, Massachusetts, United States of America; New Jersey, United States of America; Santa Clara, California, United States of America",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.qualcomm.com/careers/job/446720740637",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Acoustic Filter Design Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Acoustic-Filter-Design-Co-Op-%28WinterSpring-2027%29-CA-92617/1425559000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Acoustic Filter Design Summer/Fall Co-Op (June-Dec '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Acoustic-Filter-Design-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1433941200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Agentic Mixed-Signal Verification Platform Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Agentic-Mixed-Signal-Verification-Platform-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1433417400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "AI / ML Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-AI-ML-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1426987300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "AI Automation & Software Developer Co-op (Winter/Spring 2027)",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-AI-Automation-&-Software-Developer-Co-op-%28WinterSpring-2027%29-IA-52411/1421691900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "AI Engineering Summer Intern (May-Aug '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-AI-Engineering-Summer-Intern-%28May-Aug-'27%29-CA-91320/1440767700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "AI/ML Intern",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-AIML-Intern-CA-92617/1433610500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "AI/ML Summer/Fall Co-Op (June-Dec '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-AIML-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1438165000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog and RF circuit design Summer/Fall Co-Op (June-Dec '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-Analog-and-RF-circuit-design-SummerFall-Co-Op-%28June-Dec-'27%29-CA-95134/1440040000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog and RF circuit design Winter/Spring Co-Op (Jan-June '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-Analog-and-RF-circuit-design-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-95134/1440042000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog Design Intern",
+  "location": "Austin, TX, US, 78702",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-Analog-Design-Intern-TX-78702/1420551800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog Design Intern (Winter/Spring 2027)",
+  "location": "Austin, TX, US, 78702",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-Analog-Design-Intern-%28WinterSpring-2027%29-TX-78702/1431939700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog Design Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-Analog-Design-WinterSpring-Co-Op-%28Jan-June-'27%29-MA-01810/1423081800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog IC Design Co-op (Summer/Fall 2027)",
+  "location": "Irvine, CA, US, 92617; Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Analog-IC-Design-Co-op-%28SummerFall-2027%29-CA-92617/1433942200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog IC Design Co-Op (Winter/Spring 2027)",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-Analog-IC-Design-Co-Op-%28WinterSpring-2027%29-IA-52411/1433958200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog/mixed-signal Design Intern",
+  "location": "Nashua, NH, US, 03062",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Nashua-Analogmixed-signal-Design-Intern-NH-03062/1435410900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Analog/Mixed-Signal Intern",
+  "location": "Nashua, NH, US, 03062",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Nashua-AnalogMixed-Signal-Intern-NH-03062/1435525900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Assembly/Tuning Co-Op (Winter/Spring 2027)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-AssemblyTuning-Co-Op-%28WinterSpring-2027%29-CA-95134/1419262500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Audio AI Engineering Intern-Summer 2027",
+  "location": "Hillsboro, OR, US, 97006",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Hillsboro-Audio-AI-Engineering-Intern-Summer-2027-OR-97006/1419829600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Audio Systems Engineering Intern-Summer 2027",
+  "location": "Hillsboro, OR, US, 97006",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Hillsboro-Audio-Systems-Engineering-Intern-Summer-2027-OR-97006/1420863100/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "BAW Design Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-BAW-Design-WinterSpring-Co-Op-%28Jan-June-'27%29-MA-01810/1433683200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "BAW Design Winter/Spring Co-Op (Jun-Dec '27)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-BAW-Design-WinterSpring-Co-Op-%28Jun-Dec-'27%29-MA-01810/1433682300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "BAW Development Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-BAW-Development-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1430510400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "BAW/SAW Filter Design Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-BAWSAW-Filter-Design-Co-Op-%28WinterSpring-2027%29-CA-92617/1419333200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "BAW/SAW RF Lap Summer/Fall Co-Op (June-Dec '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-BAWSAW-RF-Lap-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1433607800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Characterization Engineering Summer/Fall Co-Op (June-Dec '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Characterization-Engineering-SummerFall-Co-Op-%28June-Dec-'27%29-CA-91320/1434277600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Characterization Engineering Winter/Spring Co-Op (Jan-Jun '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Characterization-Engineering-WinterSpring-Co-Op-%28Jan-Jun-'27%29-CA-91320/1427729300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Co-Op",
+  "location": "Austin, TX, US, 78702; Mexicali, BCN, MX, 21259",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-Co-Op-TX-78702/1431937600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Compound semiconductor TCAD (GaAs and GaN) Engineering Winter/Spring Co-op (Jan-June '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Compound-semiconductor-TCAD-%28GaAs-and-GaN%29-Engineering-WinterSpring-Co-op-%28Jan-June-'27%29-CA-91320/1424305900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Cybersecurity Winter/Spring Co-Op (Jan - June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Cybersecurity-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1421437600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Data Engineering Summer Intern (May-Aug '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Data-Engineering-Summer-Intern-%28May-Aug-'27%29-CA-92617/1423190000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Data Engineering Summer/Fall Co-Op (June - Dec '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Data-Engineering-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1424302600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Data Engineering Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Data-Engineering-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1423188200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Demand Management / Supply Chain Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Demand-Management-Supply-Chain-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1421133000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Digital IC Design Co-op (Winter/Spring 2027)",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-Digital-IC-Design-Co-op-%28WinterSpring-2027%29-IA-52411/1438467000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Digital Supply Chain Summer/Fall Co-Op (June-Dec '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Digital-Supply-Chain-SummerFall-Co-Op-%28June-Dec-'27%29-CA-92617/1437448000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Digital Supply Chain Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Digital-Supply-Chain-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1431091500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Electrical Engineering Intern",
+  "location": "Shenzen, GD, CN, 518057",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Shenzen-Electrical-Engineering-Intern-GD-518057/1440331300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Electronic Design Automation Winter/Spring Co-Op (Jan-June '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-Electronic-Design-Automation-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-95134/1431890800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Embedded Firmware Engineer Co-Op (Winter/Spring 2027)",
+  "location": "Hillsboro, OR, US, 97006",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Hillsboro-Embedded-Firmware-Engineer-Co-Op-%28WinterSpring-2027%29-OR-97006/1423710700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "High frequency PA design, Winter/Spring Engineering Co-op (Jan-June '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-High-frequency-PA-design%2C-WinterSpring-Engineering-Co-op-%28Jan-June-'27%29-CA-91320/1424304500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "IC Layout Co-op (Summer/Fall 2027)",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-IC-Layout-Co-op-%28SummerFall-2027%29-IA-52411/1427969200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "IC Layout Co-op (Winter/Spring 2027)",
+  "location": "Greensboro, NC, US, 27409",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Greensboro-IC-Layout-Co-op-%28WinterSpring-2027%29-NC-27409/1440667300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "IC Packaging Thermal / Mechanical Simulation Co-Op (Winter/Spring, January - June 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-IC-Packaging-Thermal-Mechanical-Simulation-Co-Op-%28WinterSpring%2C-January-June-2027%29-CA-92617/1420483500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Intern",
+  "location": "Austin, TX, US, 78702",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-Intern-TX-78702/1431940600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "LNA RFIC Co-Op (Winter/Spring 2027)",
+  "location": "Greensboro, NC, US, 27409",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Greensboro-LNA-RFIC-Co-Op-%28WinterSpring-2027%29-NC-27409/1424872300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Machine Learning Modeling Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Machine-Learning-Modeling-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-92617/1437686100/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Manufacturing/Supplier Quality Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-ManufacturingSupplier-Quality-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-91320/1428729600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Microelectronics / Semiconductor Packaging Co-Op",
+  "location": "Nashua, NH, US, 03062",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Nashua-Microelectronics-Semiconductor-Packaging-Co-Op-NH-03062/1429861200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Operations Co-Op (Jan- June 2027)",
+  "location": "Milpitas, CA, US, 95035",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Milpitas-Operations-Co-Op-%28Jan-June-2027%29-CA-95035/1419822600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "PDK Development Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Austin, TX, US, 78702",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-PDK-Development-WinterSpring-Co-Op-%28Jan-June-'27%29-TX-78702/1433413700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Power Amplifier Design Co-Op (Jan-June 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Power-Amplifier-Design-Co-Op-%28Jan-June-2027%29-CA-92617/1433209900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Power Amplifier Design Co-Op (June-December 20270",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Power-Amplifier-Design-Co-Op-%28June-December-20270-CA-92617/1434623700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Power Amplifier IC Design Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Power-Amplifier-IC-Design-Co-Op-%28WinterSpring-2027%29-CA-92617/1423918700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Product Development - Assembly and Tuning Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Product-Development-Assembly-and-Tuning-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-91320/1424305400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Product Development Assembly/Tuning Co-Op (Summer/Fall 2027)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-Product-Development-AssemblyTuning-Co-Op-%28SummerFall-2027%29-CA-95134/1420023100/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Product Engineering Summer/Fall Co-Op (Jun-Dec 2027)",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-Product-Engineering-SummerFall-Co-Op-%28Jun-Dec-2027%29-IA-52411/1436821600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Product Failure Analysis Summer/Fall Co-Op (June-Dec '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Product-Failure-Analysis-SummerFall-Co-Op-%28June-Dec-'27%29-CA-91320/1436847700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Product/Test Engineering Co-Op (Jan-June 2027)",
+  "location": "Milpitas, CA, US, 95035",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Milpitas-ProductTest-Engineering-Co-Op-%28Jan-June-2027%29-CA-95035/1429765300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Quality Engineering Intern-Summer 2027",
+  "location": "Milpitas, CA, US, 95035",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Milpitas-Quality-Engineering-Intern-Summer-2027-CA-95035/1424064300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Quality Systems Co-Op (Wafer Fabs) Summer/Fall (June - Dec '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Quality-Systems-Co-Op-%28Wafer-Fabs%29-SummerFall-%28June-Dec-'27%29-CA-91320/1422002900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Quality Systems Coop (Wafer Fabs) Winter/Spring (Jan-June '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Quality-Systems-Coop-%28Wafer-Fabs%29-WinterSpring-%28Jan-June-'27%29-CA-91320/1420635000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Quality Systems Data Analyst Winter/Spring Co-Op",
+  "location": "Woburn, MA, US, 01801",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Woburn-Quality-Systems-Data-Analyst-WinterSpring-Co-Op-MA-01801/1434088400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Quality Systems Summer/Fall Co-Op (June - Dec '27)",
+  "location": "Woburn, MA, US, 01801",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Woburn-Quality-Systems-SummerFall-Co-Op-%28June-Dec-'27%29-MA-01801/1425072500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Reliability Lab Summer/Fall Co-Op (June - Dec '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Reliability-Lab-SummerFall-Co-Op-%28June-Dec-'27%29-CA-91320/1432089900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Applications Winter/Spring Co-Op",
+  "location": "Woburn, MA, US, 01801",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Woburn-RF-Applications-WinterSpring-Co-Op-MA-01801/1432459000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Circuit Design Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-RF-Circuit-Design-WinterSpring-Co-Op-%28Jan-June-'27%29-MA-01810/1434750800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Design Co-Op (Jan-June 2027)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-RF-Design-Co-Op-%28Jan-June-2027%29-MA-01810/1421903700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Design Engineering Co-Op (Jan - June '27)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-RF-Design-Engineering-Co-Op-%28Jan-June-'27%29-MA-01810/1431943000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Design Validation/Testing Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-RF-Design-ValidationTesting-Co-Op-%28WinterSpring-2027%29-CA-92617/1423137200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF EM Design Co-Op (Summer/Fall 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-RF-EM-Design-Co-Op-%28SummerFall-2027%29-CA-92617/1423932200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Filter Design / BAW development Co-Op",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-RF-Filter-Design-BAW-development-Co-Op-MA-01810/1430090300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Front End Modules Summer/Fall Co-Op (June-Dec '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-RF-Front-End-Modules-SummerFall-Co-Op-%28June-Dec-'27%29-CA-95134/1422359300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Front-End EM Design Co-Op (Summer/Fall 2027)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-RF-Front-End-EM-Design-Co-Op-%28SummerFall-2027%29-CA-91320/1419493500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Front-End Engineer Summer/Fall Co-Op (June-Dec '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-RF-Front-End-Engineer-SummerFall-Co-Op-%28June-Dec-'27%29-CA-95134/1433516700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Module Design Co-Op (Summer/Fall 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-RF-Module-Design-Co-Op-%28SummerFall-2027%29-CA-92617/1423182200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Module Design Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-RF-Module-Design-Co-Op-%28WinterSpring-2027%29-CA-92617/1423172300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Module Design Engineer Co-op (Winter/Spring 2027)",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Module-Design-Engineer-Co-op-%28WinterSpring-2027%29-IA-52411/1421228100/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Module Design Summer Intern",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Module-Design-Summer-Intern-IA-52411/1427591700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Module Design Summer/Fall Co-Op (June-Dec '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-RF-Module-Design-SummerFall-Co-Op-%28June-Dec-'27%29-CA-95134/1428432300/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Module Engineer - Winter/Spring Co-Op (Jan-June '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-RF-Module-Engineer-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-95134/1422356000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Modules Summer/Fall Co-Op (June-Dec '27)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-RF-Modules-SummerFall-Co-Op-%28June-Dec-'27%29-CA-95134/1422357700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Technician Co-Op (Winter/Spring 2027)",
+  "location": "Cedar Rapids, IA, US, 52411",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Technician-Co-Op-%28WinterSpring-2027%29-IA-52411/1434615600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF test Engineering Co-op",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-RF-test-Engineering-Co-op-MA-01810/1437227700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Test Engineering Co-Op (January '27 - June '27)",
+  "location": "Woburn, MA, US, 01801",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Woburn-RF-Test-Engineering-Co-Op-%28January-'27-June-'27%29-MA-01801/1425856400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Test Engineering Co-Op (June '27 - December '27)",
+  "location": "Woburn, MA, US, 01801",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Woburn-RF-Test-Engineering-Co-Op-%28June-'27-December-'27%29-MA-01801/1430083200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Test Engineering Tech Co-Op (Winter/Spring 2027)",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-RF-Test-Engineering-Tech-Co-Op-%28WinterSpring-2027%29-CA-95134/1419262100/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Validation Engineer - Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-RF-Validation-Engineer-WinterSpring-Co-Op-%28Jan-June-'27%29-MA-01810/1422655400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RF Validation Engineer Co-op (Summer/Fall 2027)",
+  "location": "Cedar Rapids, IA, US, 52411; San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Cedar-Rapids-RF-Validation-Engineer-Co-op-%28SummerFall-2027%29-IA-52411/1422974400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RFIC Design Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-RFIC-Design-Co-Op-%28WinterSpring-2027%29-CA-92617/1426588600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RFIC Design Summer Intern",
+  "location": "San Jose, CA, US, 95134",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/San-Jose-RFIC-Design-Summer-Intern-CA-95134/1422354700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RFIC Design | 6-month Summer/Fall Co-op (June '27 - Dec '27)",
+  "location": "Andover, MA, US, 01810",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Andover-RFIC-Design-6-month-SummerFall-Co-op-%28June-'27-Dec-'27%29-MA-01810/1432466000/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "RMI Timing Software Engineering Summer Intern (May-Aug '27)",
+  "location": "Austin, TX, US, 78702",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-RMI-Timing-Software-Engineering-Summer-Intern-%28May-Aug-'27%29-TX-78702/1431930100/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Semiconductor Module Design Co-Op (Summer/Fall 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Semiconductor-Module-Design-Co-Op-%28SummerFall-2027%29-CA-92617/1418852100/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Semiconductor Module Design Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-Semiconductor-Module-Design-Co-Op-%28WinterSpring-2027%29-CA-92617/1418787500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Semiconductor/RF Module Design Co-Op (Winter/Spring 2027)",
+  "location": "Irvine, CA, US, 92617",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Irvine-SemiconductorRF-Module-Design-Co-Op-%28WinterSpring-2027%29-CA-92617/1420067600/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Technology Characterization & AI Automation Engineering Summer Intern (May-Aug '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Technology-Characterization-&-AI-Automation-Engineering-Summer-Intern-%28May-Aug-'27%29-CA-91320/1428916200/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Test Engineering 2027 Winter/Spring Co-Op",
+  "location": "Woburn, MA, US, 01801",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Woburn-Test-Engineering-2027-WinterSpring-Co-Op-MA-01801/1430084900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Test Engineering Co-Op (Summer/Fall 2027)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Test-Engineering-Co-Op-%28SummerFall-2027%29-CA-91320/1419496800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Test Engineering Intern (Winter/Spring 2027)",
+  "location": "Austin, TX, US, 78702",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-Test-Engineering-Intern-%28WinterSpring-2027%29-TX-78702/1424368500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Timing IC-Validation Summer Intern",
+  "location": "Austin, TX, US, 78702",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Austin-Timing-IC-Validation-Summer-Intern-TX-78702/1431925700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Validation Engineer (VE) Summer/Fall Co-Op (June-Dec '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Validation-Engineer-%28VE%29-SummerFall-Co-Op-%28June-Dec-'27%29-CA-91320/1420636400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Validation Engineer (VE) Winter/Spring Co-Op (Jan-June '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Validation-Engineer-%28VE%29-WinterSpring-Co-Op-%28Jan-June-'27%29-CA-91320/1421252800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Wireless Protocol Engineer Co-Op (Winter Spring 2027)",
+  "location": "Hillsboro, OR, US, 97006",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Hillsboro-Wireless-Protocol-Engineer-Co-Op-%28Winter-Spring-2027%29-OR-97006/1423709700/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "Skyworks",
+  "title": "Yield Engineering Summer Intern (May-Aug '27)",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Yield-Engineering-Summer-Intern-%28May-Aug-'27%29-CA-91320/1432087400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "Internship",
+  "company": "STMicroelectronics",
+  "title": "Hardware and Software Design Intern",
+  "location": "Santa Clara, United States",
+  "posted": "2026-09-22",
+  "first_seen": "2026-10-25",
+  "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637173423968",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "STMicroelectronics",
+  "title": "Planning Intern",
+  "location": "Hal Kirkop, Malta",
+  "posted": "2025-07-24",
+  "first_seen": "2026-10-25",
+  "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637162670150",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "STMicroelectronics",
+  "title": "PMIC and Power Combo Bench Validation Intern",
+  "location": "Santa Clara, United States",
+  "posted": "2026-09-22",
+  "first_seen": "2026-10-25",
+  "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637173423923",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "STMicroelectronics",
+  "title": "Software Algorithm Embedded Intern",
+  "location": "Santa Clara, United States",
+  "posted": "2026-07-27",
+  "first_seen": "2026-10-25",
+  "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637173423927",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "STMicroelectronics",
+  "title": "Warehouse Intern",
+  "location": "Hal Kirkop, Malta",
+  "posted": "2025-10-31",
+  "first_seen": "2026-10-25",
+  "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637169372622",
+  "source": "eightfold"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Analog and Mixed Signal Internship (16-Month Co-op) Markham, Canada Category: Interns/Temp Posted: 10/21/2026 Job ID: 19182",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/markham/analog-and-mixed-signal-internship-16-month-co-op/44408/102314761568",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Analog Design Internship - Summer 2027 Mississauga, Canada Category: Interns/Temp Posted: 10/15/2026 Job ID: 19195",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/mississauga/analog-design-internship-summer-2027/44408/102054577920",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "ASIC Physical Design Intern Yerevan, Armenia Category: Interns/Temp Posted: 10/18/2026 Job ID: 19287",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/yerevan/asic-physical-design-intern/44408/102166693184",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Business Operations & Process Improvement Intern Porto Salvo, Portugal Category: Interns/Temp Posted: 10/22/2026 Job ID: 19253",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/porto-salvo/business-operations-and-process-improvement-intern/44408/102338082336",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Digital Design Engineer Apprenticeship Noida, India Category: Interns/Temp Posted: 10/13/2026 Job ID: 19228",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/noida/digital-design-engineer-apprenticeship/44408/102251697520",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Digital Design Engineer Apprenticeship Noida, India Category: Interns/Temp Posted: 10/20/2026 Job ID: 19229",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/noida/digital-design-engineer-apprenticeship/44408/102251697536",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Engineering Automation Intern Yerevan, Armenia Category: Interns/Temp Posted: 10/22/2026 Job ID: 19273",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/yerevan/engineering-automation-intern/44408/102338082288",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "R&D Engineering Intern Dublin, Ireland Category: Interns/Temp Posted: 10/14/2026 Job ID: 19289",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/dublin/r-and-d-engineering-intern/44408/101997038224",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Software Development & Optimization Internship Villeurbanne, France Category: Interns/Temp Posted: 08/27/2026 Job ID: 18414",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/villeurbanne/software-development-and-optimization-internship/44408/99869922384",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Technical Engineering Intern - AI Research and Development Internship Da Nang, Vietnam Category: Interns/Temp Posted: 10/20/2026 Job ID: 19334",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/da-nang/technical-engineering-intern-ai-research-and-development-internship/44408/102279058288",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Technical Engineering Intern - Design for Test (DFT) Internship Ho Chi Minh City, Vietnam Category: Interns/Temp Posted: 10/20/2026 Job ID: 19332",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/ho-chi-minh-city/technical-engineering-intern-design-for-test-dft-internship/44408/102251697392",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Technical Engineering Intern - Design Verification Internship Da Nang, Vietnam Category: Interns/Temp Posted: 10/21/2026 Job ID: 19333",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/da-nang/technical-engineering-intern-design-verification-internship/44408/102314761696",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Synopsys",
+  "title": "Technical Writer Intern Yerevan, Armenia Category: Interns/Temp Posted: 10/20/2026 Job ID: 19350",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/yerevan/technical-writer-intern/44408/102251697472",
+  "source": "radancy"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "2027 Manufacturing Technician Intern (Dallas/Richardson, TX)",
+  "location": "Richardson, TX, United States",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017474",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "2027 Manufacturing Technician Intern (Lehi, UT)",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017496",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Accounting Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-03",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017560",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Analog Design Engineering Intern - ATD",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-10-07",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015924",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Analog IC Design Engineering Intern - Bachelors",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017543",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Analog IC Design Engineering Intern - MS/PhD",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017544",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Applications Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017537",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Brand Marketing Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017564",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Communications Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017565",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Corporate Audit Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-10-15",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018724",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Design Verification Engineering Intern - Bachelors",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017545",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Design Verification Engineering Intern - MS/PhD",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017546",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Digital Design Verification Engineering Intern",
+  "location": "Santa Clara, CA, United States",
+  "posted": "2026-10-23",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25016380",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Digital IC Design Engineering Intern - Bachelors",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017547",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Digital IC Design Engineering Intern - MS/PhD",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017548",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "DoW SkillBridge | Equipment Technician Intern (Dallas/Richardson, TX)",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017476",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "DoW SkillBridge | Equipment Technician Intern (Lehi, UT)",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017478",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "DoW SkillBridge | Equipment Technician Intern (South Portland, ME)",
+  "location": "South Portland, ME, United States",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017479",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Environmental, Safety, and Health Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-09",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017846",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Facilities Chemical Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017820",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Facilities Civil, Structural, Architectural Internship",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-09",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015813",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Facilities Construction Science Intern",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017814",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Facilities Controls and Automation Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017815",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Facilities Mechanical & Process Water Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017827",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Finance Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-03",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017561",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Human Resources Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-03",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017555",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Industrial Engr Intern",
+  "location": "South Portland, ME, United States",
+  "posted": "2026-09-23",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015796",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Information Technology Intern \u2013 Data Engineering",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-15",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017978",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Information Technology Intern \u2013 Security",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-15",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017626",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Maine: Manufacturing Engineering Intern",
+  "location": "South Portland, ME, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017629",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "North Texas: Industrial Engineer Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017630",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "North Texas: Manufacturing Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017628",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Operations Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-03",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017562",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Packaging Engineering Intern MS/PhD",
+  "location": "United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017568",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Portfolio Marketing Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-18",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017852",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Pricing Intern",
+  "location": "United States",
+  "posted": "2026-09-03",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017566",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Process Development Engineer Intern - DLP",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-10-07",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25013674",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Process Development Engineer Intern - MS/PhD \u2013 Dallas",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017569",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Process Development Engineer Intern - MS/PhD \u2013 Lehi",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017570",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Process Engineering Intern",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-10-21",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019143",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Procurement Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-03",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017563",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Product Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017579",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Product Marketing Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017582",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Product/Test Engineering Intern - TMG",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017571",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Program Management Engineer Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017539",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Quality Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017572",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Sales Engineering Intern (Austin, TX)",
+  "location": "Austin, TX, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017588",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Sales Engineering Intern (Bellevue, WA)",
+  "location": "Bellevue, WA, United States",
+  "posted": "2026-10-15",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017947",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Sales Engineering Intern (Dallas, TX)",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-14",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017948",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Sales Engineering Intern (Irvine, CA)",
+  "location": "Irvine, CA, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017589",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Sales Engineering Intern (Novi, MI)",
+  "location": "MI, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017590",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Sales Engineering Intern (Santa Clara, CA)",
+  "location": "Santa Clara, CA, United States",
+  "posted": "2026-09-10",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017890",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Sales Engineering Intern (Waltham, MA)",
+  "location": "Waltham, MA, United States",
+  "posted": "2026-09-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017591",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Smart Manufacturing and Automation Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-16",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017994",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Software Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-09",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017573",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Software Engineering Intern - Compiler",
+  "location": "United States",
   "posted": "2026-10-20",
   "first_seen": "2026-10-25",
-  "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/RF-Validation-Engineer-I_20999-1",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Systems Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017917",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Systems Engineering Intern - MS/PhD",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017542",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Systems Engineering Intern(SEM) - A&D",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-15",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017921",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Systems Marketing Engineering Intern (SEM)",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-11",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017540",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Technical Sales Engineering Intern",
+  "location": "Istanbul, T\u00fcrkiye",
+  "posted": "2026-07-02",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011568",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Test or Validation Engineering Intern",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017578",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Utah: Manufacturing Engineering Intern",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017627",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Web Marketing Intern - Digital Experience Operations",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-09-16",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018000",
+  "source": "oracle"
+ },
+ {
+  "category": "Internship",
+  "company": "Texas Instruments",
+  "title": "Web Marketing Intern - User Experience Design",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-10-15",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753",
+  "source": "oracle"
+ },
+ {
+  "category": "New Grad",
+  "company": "AMD",
+  "title": "Technical Sales Engineer - Graduate Rotational Program",
+  "location": "San Jose, California",
+  "posted": "2026-09-24",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.amd.com/jobs/89554?lang=en-us",
+  "source": "jibe"
+ },
+ {
+  "category": "New Grad",
+  "company": "Cirrus Logic",
+  "title": "Post Silicon Validation Engineer \u2013 New College Graduate",
+  "location": "Austin, Texas",
+  "posted": "2026-09-21",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/b4334931-aee2-40d9-a82e-ae6fb644cab0",
+  "source": "lever"
+ },
+ {
+  "category": "New Grad",
+  "company": "Cirrus Logic",
+  "title": "Product Engineer - New College Graduate",
+  "location": "Austin, Texas",
+  "posted": "2026-09-16",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/44d45ee9-9f41-4ea2-abd6-be343e61cc2b",
+  "source": "lever"
+ },
+ {
+  "category": "New Grad",
+  "company": "Cirrus Logic",
+  "title": "Product Test Engineer - New College Graduate",
+  "location": "Austin, Texas",
+  "posted": "2026-09-08",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.eu.lever.co/cirrus/12cd627f-7c7c-4737-b1e9-22edc752e35e",
+  "source": "lever"
+ },
+ {
+  "category": "New Grad",
+  "company": "Kioxia America",
+  "title": "NCG - Customer Qualification Engineer - 2259",
+  "location": "San Jose, CA, US",
+  "posted": "2026-09-15",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.smartrecruiters.com/kioxia/744000149622811",
+  "source": "smartrecruiters"
+ },
+ {
+  "category": "New Grad",
+  "company": "Kioxia America",
+  "title": "NCG - Customer Qualification Engineer - 2280",
+  "location": "San Jose, CA, US",
+  "posted": "2026-10-06",
+  "first_seen": "2026-10-25",
+  "url": "https://jobs.smartrecruiters.com/kioxia/744000153862940",
+  "source": "smartrecruiters"
+ },
+ {
+  "category": "New Grad",
+  "company": "Onto Innovation",
+  "title": "Electrical Engineer 1",
+  "location": "Wilmington-MA (Upton)",
+  "posted": "2026-10-21",
+  "first_seen": "2026-10-25",
+  "url": "https://wd1.myworkdaysite.com/recruiting/onto/ONTO_Careers/job/Wilmington-MA-Upton/Electrical-Engineer-1_R-6587",
   "source": "workday"
  },
  {
   "category": "New Grad",
-  "company": "Silicon Labs",
-  "title": "RFIC Design Engineer I",
-  "location": "Austin",
-  "posted": "2026-10-16",
+  "company": "Onto Innovation",
+  "title": "Field Service Engineer 1 (Non-Exempt)",
+  "location": "Remote AZ (+1 more)",
+  "posted": "30+ days ago",
   "first_seen": "2026-10-25",
-  "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/RFIC-Design-Engineer-I_20918-1",
+  "url": "https://wd1.myworkdaysite.com/recruiting/onto/ONTO_Careers/job/Remote-AZ/Field-Service-Engineer-1--Non-Exempt-_R-5960",
   "source": "workday"
  },
  {
   "category": "New Grad",
-  "company": "Silicon Labs",
-  "title": "Software Engineer I",
-  "location": "Austin",
-  "posted": "2026-10-13",
+  "company": "Qualcomm",
+  "title": "Machine Learning Engineer - College Graduate",
+  "location": "San Diego, California, United States of America",
+  "posted": "2026-09-17",
   "first_seen": "2026-10-25",
-  "url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1",
-  "source": "workday"
+  "url": "https://careers.qualcomm.com/careers/job/446717859953",
+  "source": "eightfold"
+ },
+ {
+  "category": "New Grad",
+  "company": "Skyworks",
+  "title": "Engineering Technician 1",
+  "location": "Mexicali, BCN, MX, 21259",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Mexicali-Engineering-Technician-1-BCN-21259/1443173400/",
+  "source": "successfactors"
+ },
+ {
+  "category": "New Grad",
+  "company": "Skyworks",
+  "title": "Equipment Engineer 1",
+  "location": "Suminoe-ku, 27, JP, 559-0026",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Suminoe-ku-Equipment-Engineer-1-27-559-0026/1373948800/",
+  "source": "successfactors"
+ },
+ {
+  "category": "New Grad",
+  "company": "Skyworks",
+  "title": "Equipment Engineer 1 (FE/BE All TPM Control(Shift))",
+  "location": "Suminoe-ku, 27, JP, 559-0026",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Suminoe-ku-Equipment-Engineer-1-%28FEBE-All-TPM-Control%28Shift%29%29-27-559-0026/1373944900/",
+  "source": "successfactors"
+ },
+ {
+  "category": "New Grad",
+  "company": "Skyworks",
+  "title": "Fabrication Technician 1",
+  "location": "Newbury Park, CA, US, 91320",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.skyworksinc.com/job/Newbury-Park-Fabrication-Technician-1-CA-91320/1428344500/",
+  "source": "successfactors"
+ },
+ {
+  "category": "New Grad",
+  "company": "STMicroelectronics",
+  "title": "Graduate Finance Analyst (ANAPEC Program )",
+  "location": "Bouskoura, Morocco",
+  "posted": "2026-09-07",
+  "first_seen": "2026-10-25",
+  "url": "https://stmicroelectronics.eightfold.ai/careers/job/563637173301187",
+  "source": "eightfold"
+ },
+ {
+  "category": "New Grad",
+  "company": "Synopsys",
+  "title": "HR Graduate Rotation Experience Sunnyvale, California Category: People Posted: 10/21/2026 Job ID: 19199",
+  "location": "",
+  "posted": "",
+  "first_seen": "2026-10-25",
+  "url": "https://careers.synopsys.com/job/sunnyvale/hr-graduate-rotation-experience/44408/102314761600",
+  "source": "radancy"
+ },
+ {
+  "category": "New Grad",
+  "company": "Texas Instruments",
+  "title": "2027 Entry Level Equipment Technician (Dallas/Richardson, TX)",
+  "location": "Dallas, TX, United States",
+  "posted": "2026-10-08",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017480",
+  "source": "oracle"
+ },
+ {
+  "category": "New Grad",
+  "company": "Texas Instruments",
+  "title": "2027 Entry Level Equipment Technician (Lehi, UT)",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017481",
+  "source": "oracle"
+ },
+ {
+  "category": "New Grad",
+  "company": "Texas Instruments",
+  "title": "2027 Entry Level Equipment Technician (Sherman)",
+  "location": "Sherman, TX, United States",
+  "posted": "2026-10-12",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018642",
+  "source": "oracle"
+ },
+ {
+  "category": "New Grad",
+  "company": "Texas Instruments",
+  "title": "2027 Entry Level Manufacturing Maintenance Specialist (Dallas/Richardson, TX)",
+  "location": "Richardson, TX, United States",
+  "posted": "2026-10-06",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018510",
+  "source": "oracle"
+ },
+ {
+  "category": "New Grad",
+  "company": "Texas Instruments",
+  "title": "2027 Entry Level Manufacturing Maintenance Specialist (Lehi, UT)",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-09-01",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017482",
+  "source": "oracle"
+ },
+ {
+  "category": "New Grad",
+  "company": "Texas Instruments",
+  "title": "Entry Level Manufacturing Maintenance Specialist",
+  "location": "Lehi, UT, United States",
+  "posted": "2026-08-28",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010989",
+  "source": "oracle"
+ },
+ {
+  "category": "New Grad",
+  "company": "Texas Instruments",
+  "title": "Entry-Level Operations Process Technician",
+  "location": "Sherman, TX, United States",
+  "posted": "2026-08-07",
+  "first_seen": "2026-10-25",
+  "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009119",
+  "source": "oracle"
  }
 ]

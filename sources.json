@@ -1,5 +1,5 @@
 {
-  "_comment": "Company career pages first, job boards last (company links win when the same job appears in both). ats = workday | greenhouse | lever | ashby | smartrecruiters | semidesignjobs | semiengineering",
+  "_comment": "Company career sites first, job boards last (company links win when the same job appears in both). See README 'Add a company' for the fields each ats type needs.",
   "sources": [
     {
       "company": "NVIDIA",
@@ -105,6 +105,250 @@
       "host": "entegris.wd1.myworkdayjobs.com",
       "tenant": "entegris",
       "site": "EntegrisCareers"
+    },
+    {
+      "company": "Tenstorrent",
+      "ats": "greenhouse",
+      "token": "tenstorrent"
+    },
+    {
+      "company": "Lightmatter",
+      "ats": "greenhouse",
+      "token": "lightmatter"
+    },
+    {
+      "company": "PsiQuantum",
+      "ats": "greenhouse",
+      "token": "psiquantum"
+    },
+    {
+      "company": "Astera Labs",
+      "ats": "greenhouse",
+      "token": "asteralabs"
+    },
+    {
+      "company": "SambaNova",
+      "ats": "greenhouse",
+      "token": "sambanovasystems"
+    },
+    {
+      "company": "Etched",
+      "ats": "ashby",
+      "token": "etched"
+    },
+    {
+      "company": "MatX",
+      "ats": "ashby",
+      "token": "matx"
+    },
+    {
+      "company": "Axelera AI",
+      "ats": "ashby",
+      "token": "axelera"
+    },
+    {
+      "company": "Normal Computing",
+      "ats": "ashby",
+      "token": "normalcomputing"
+    },
+    {
+      "company": "Extropic",
+      "ats": "ashby",
+      "token": "extropic"
+    },
+    {
+      "company": "Eliyan",
+      "ats": "lever",
+      "token": "eliyan"
+    },
+    {
+      "company": "AMD",
+      "ats": "jibe",
+      "host": "careers.amd.com"
+    },
+    {
+      "company": "Qualcomm",
+      "ats": "eightfold",
+      "host": "careers.qualcomm.com",
+      "domain": "qualcomm.com"
+    },
+    {
+      "company": "Texas Instruments",
+      "ats": "oracle",
+      "host": "edbz.fa.us2.oraclecloud.com",
+      "site": "CX"
+    },
+    {
+      "company": "Lam Research",
+      "ats": "eightfold",
+      "host": "careers.lamresearch.com",
+      "domain": "lamresearch.com"
+    },
+    {
+      "company": "Synopsys",
+      "ats": "radancy",
+      "host": "careers.synopsys.com"
+    },
+    {
+      "company": "Arm",
+      "ats": "radancy",
+      "host": "careers.arm.com"
+    },
+    {
+      "company": "onsemi",
+      "ats": "oracle",
+      "host": "hctz.fa.us2.oraclecloud.com",
+      "site": "CX_1001"
+    },
+    {
+      "company": "Infineon",
+      "ats": "eightfold",
+      "host": "jobs.infineon.com",
+      "domain": "infineon.com"
+    },
+    {
+      "company": "STMicroelectronics",
+      "ats": "eightfold_v2",
+      "host": "stmicroelectronics.eightfold.ai",
+      "domain": "stmicroelectronics.com"
+    },
+    {
+      "company": "Skyworks",
+      "ats": "successfactors_rss",
+      "host": "careers.skyworksinc.com"
+    },
+    {
+      "company": "Qorvo",
+      "ats": "successfactors_rss",
+      "host": "careers.qorvo.com"
+    },
+    {
+      "company": "Teradyne",
+      "ats": "successfactors_rss",
+      "host": "jobs.teradyne.com"
+    },
+    {
+      "company": "Coherent",
+      "ats": "oracle",
+      "host": "hcwp.fa.us2.oraclecloud.com",
+      "site": "CX_1"
+    },
+    {
+      "company": "Lattice Semiconductor",
+      "ats": "workday",
+      "host": "latticesemi.wd5.myworkdayjobs.com",
+      "tenant": "latticesemi",
+      "site": "latticesemiconductorscareers"
+    },
+    {
+      "company": "Allegro Microsystems",
+      "ats": "workday",
+      "host": "allegromicro.wd5.myworkdayjobs.com",
+      "tenant": "allegromicro",
+      "site": "AllegroCareers"
+    },
+    {
+      "company": "Monolithic Power Systems",
+      "ats": "workday",
+      "host": "monolithicpower.wd12.myworkdayjobs.com",
+      "tenant": "monolithicpower",
+      "site": "mps_careers"
+    },
+    {
+      "company": "Wolfspeed",
+      "ats": "workday",
+      "host": "cree.wd108.myworkdayjobs.com",
+      "tenant": "cree",
+      "site": "EXT"
+    },
+    {
+      "company": "SiFive",
+      "ats": "workday",
+      "host": "sifive.wd1.myworkdayjobs.com",
+      "tenant": "sifive",
+      "site": "sifivecareers"
+    },
+    {
+      "company": "FormFactor",
+      "ats": "workday",
+      "host": "formfactor.wd1.myworkdayjobs.com",
+      "tenant": "formfactor",
+      "site": "FFI-Careers"
+    },
+    {
+      "company": "Semtech",
+      "ats": "workday",
+      "host": "semtech.wd1.myworkdayjobs.com",
+      "tenant": "semtech",
+      "site": "SemtechCareers"
+    },
+    {
+      "company": "MKS Instruments",
+      "ats": "workday",
+      "host": "mksinst.wd1.myworkdayjobs.com",
+      "tenant": "mksinst",
+      "site": "MKSCareersAmericas"
+    },
+    {
+      "company": "Onto Innovation",
+      "ats": "workday",
+      "host": "wd1.myworkdaysite.com",
+      "tenant": "onto",
+      "site": "ONTO_Careers",
+      "job_url_base": "https://wd1.myworkdaysite.com/recruiting/onto/ONTO_Careers"
+    },
+    {
+      "company": "Vishay",
+      "ats": "workday",
+      "host": "vishay.wd3.myworkdayjobs.com",
+      "tenant": "vishay",
+      "site": "VishayCareers"
+    },
+    {
+      "company": "Western Digital",
+      "ats": "smartrecruiters",
+      "token": "westerndigital"
+    },
+    {
+      "company": "Renesas",
+      "ats": "smartrecruiters",
+      "token": "RenesasElectronics"
+    },
+    {
+      "company": "Kioxia America",
+      "ats": "smartrecruiters",
+      "token": "kioxia"
+    },
+    {
+      "company": "Cirrus Logic",
+      "ats": "lever",
+      "token": "cirrus",
+      "api_host": "api.eu.lever.co"
+    },
+    {
+      "company": "SK hynix America",
+      "ats": "greenhouse",
+      "token": "skhynixamerica"
+    },
+    {
+      "company": "Ambiq",
+      "ats": "greenhouse",
+      "token": "ambiqmicroinc"
+    },
+    {
+      "company": "Cerebras",
+      "ats": "ashby",
+      "token": "cerebras"
+    },
+    {
+      "company": "d-Matrix",
+      "ats": "ashby",
+      "token": "d-matrix"
+    },
+    {
+      "company": "Groq",
+      "ats": "gem",
+      "token": "groq"
     },
     {
       "company": "SemiDesignJobs (board)",
