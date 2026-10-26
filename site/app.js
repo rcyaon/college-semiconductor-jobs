@@ -46,7 +46,10 @@
   // ------------------------------------------------------------- rendering
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const daysAgo = (iso) => (Date.now() - new Date(iso + "T00:00:00").getTime()) / 864e5;
-  const isNew = (j) => j.first_seen && daysAgo(j.first_seen) <= NEW_DAYS;
+  // Jobs from the scraper's very first run aren't "new", they were just already there.
+  let firstRunDate = "";
+  const isNew = (j) => j.first_seen && j.first_seen > firstRunDate && daysAgo(j.first_seen) <= NEW_DAYS;
+  const isoDate = (s) => (/^\d{4}-/.test(s || "") ? s : "");
 
   function trackedJobs() {
     // Tracked jobs stay visible in "My applications" even after the posting disappears.
@@ -74,7 +77,7 @@
     });
     const sort = $("#sort").value;
     const cmp = {
-      new: (a, b) => (b.first_seen || "").localeCompare(a.first_seen || "") || (b.posted || "").localeCompare(a.posted || ""),
+      new: (a, b) => (b.first_seen || "").localeCompare(a.first_seen || "") || isoDate(b.posted).localeCompare(isoDate(a.posted)),
       company: (a, b) => a.company.localeCompare(b.company) || a.title.localeCompare(b.title),
       title: (a, b) => a.title.localeCompare(b.title),
     }[sort];
@@ -324,6 +327,7 @@
       const data = await res.json();
       state.jobs = data.jobs || [];
       state.byId = new Map(state.jobs.map((j) => [j.id, j]));
+      firstRunDate = state.jobs.reduce((min, j) => (j.first_seen && (!min || j.first_seen < min) ? j.first_seen : min), "");
       $("#updated").textContent = `updated ${new Date(data.updated + "T12:00:00").toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" })}`;
       const companies = [...new Set(state.jobs.map((j) => j.company))].sort((a, b) => a.localeCompare(b));
       $("#company").insertAdjacentHTML("beforeend", companies.map((c) => `<option>${esc(c)}</option>`).join(""));

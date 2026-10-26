@@ -4,19 +4,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Semiconductor Jobs</title>
-  <meta name="description" content="Daily-updated semiconductor internships and new-grad roles for scholars of the EDGE Consortium.">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect x='7' y='7' width='18' height='18' rx='3' fill='%232f6f5e'/><g stroke='%232f6f5e' stroke-width='2'><path d='M11 2v5M16 2v5M21 2v5M11 25v5M16 25v5M21 25v5M2 11h5M2 16h5M2 21h5M25 11h5M25 16h5M25 21h5'/></g></svg>">
+  <meta name="description" content="Daily-updated semiconductor internships and new-grad roles for Olin EDGE Consortium scholars.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%238CC63F'/><stop offset='.5' stop-color='%236AC67F'/><stop offset='1' stop-color='%2331C5E8'/></linearGradient></defs><path d='M7 7h18v13l-5 5H7z' fill='%2316344A'/><g stroke='url(%23g)' stroke-width='2'><path d='M11 2v5M16 2v5M21 2v5M11 25v5M16 25v5M2 11h5M2 16h5M2 21h5M25 11h5M25 16h5'/></g></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Spectral:ital,wght@0,400;0,500;1,400&display=swap">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header class="top">
-    <div class="wrap top-inner">
-      <div>
-        <h1>Semiconductor Jobs</h1>
-        <p class="sub">Internships &amp; new-grad roles for <a href="https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965" target="_blank" rel="noopener">EDGE Consortium</a> scholars · <span id="updated">loading…</span></p>
-      </div>
+  <header class="hero">
+    <nav class="wrap nav" aria-label="Site">
+      <a class="brand" href="./"><span class="brand-mark" aria-hidden="true"></span>semiconductor jobs</a>
+      <ul class="nav-links">
+        <li><a href="https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965" target="_blank" rel="noopener">olin edge consortium ↗</a></li>
+        <li><a href="https://github.com/rcyaon/semiconductor-jobs" target="_blank" rel="noopener">github ↗</a></li>
+      </ul>
       <div class="account" id="account"></div>
-    </div>
+    </nav>
+    <div class="wrap"><div class="hero-copy">
+      <p class="eyebrow">For Olin EDGE Consortium scholars</p>
+      <h1>Semiconductor internships &amp; new-grad roles, <span class="grad-text">updated every morning.</span></h1>
+      <p class="lede">Pulled straight from the career sites of chipmakers, equipment makers, EDA companies and startups, so you can spend less time searching and more time applying. <span class="updated" id="updated">loading…</span></p>
+    </div></div>
+    <div class="grad-rule" aria-hidden="true"></div>
   </header>
 
   <main class="wrap">
@@ -57,7 +67,7 @@
       <p>Updated every morning from company career sites and chip-industry job boards.
         Your tracker is saved in this browser<span id="sync-note"></span>.
         <button class="link" id="export">Export my applications (CSV)</button></p>
-      <p><a href="https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965" target="_blank" rel="noopener">EDGE Consortium on Notion</a> · <a href="https://github.com/rcyaon/semiconductor-jobs">View on GitHub</a> · Always confirm details on the company's own posting.</p>
+      <p><a href="https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965" target="_blank" rel="noopener">Olin EDGE Consortium on Notion</a> · <a href="https://github.com/rcyaon/semiconductor-jobs">View on GitHub</a> · Always confirm details on the company's own posting.</p>
     </footer>
   </main>
 
