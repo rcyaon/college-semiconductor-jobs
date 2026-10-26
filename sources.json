@@ -1,0 +1,118 @@
+{
+  "_comment": "Company career pages first, job boards last (company links win when the same job appears in both). ats = workday | greenhouse | lever | ashby | smartrecruiters | semidesignjobs | semiengineering",
+  "sources": [
+    {
+      "company": "NVIDIA",
+      "ats": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite"
+    },
+    {
+      "company": "Intel",
+      "ats": "workday",
+      "host": "intel.wd1.myworkdayjobs.com",
+      "tenant": "intel",
+      "site": "External"
+    },
+    {
+      "company": "Micron",
+      "ats": "workday",
+      "host": "micron.wd1.myworkdayjobs.com",
+      "tenant": "micron",
+      "site": "External"
+    },
+    {
+      "company": "Analog Devices",
+      "ats": "workday",
+      "host": "analogdevices.wd1.myworkdayjobs.com",
+      "tenant": "analogdevices",
+      "site": "External"
+    },
+    {
+      "company": "Marvell",
+      "ats": "workday",
+      "host": "marvell.wd1.myworkdayjobs.com",
+      "tenant": "marvell",
+      "site": "MarvellCareers"
+    },
+    {
+      "company": "Applied Materials",
+      "ats": "workday",
+      "host": "amat.wd1.myworkdayjobs.com",
+      "tenant": "amat",
+      "site": "External"
+    },
+    {
+      "company": "KLA",
+      "ats": "workday",
+      "host": "kla.wd1.myworkdayjobs.com",
+      "tenant": "kla",
+      "site": "Search"
+    },
+    {
+      "company": "NXP",
+      "ats": "workday",
+      "host": "nxp.wd3.myworkdayjobs.com",
+      "tenant": "nxp",
+      "site": "careers"
+    },
+    {
+      "company": "GlobalFoundries",
+      "ats": "workday",
+      "host": "globalfoundries.wd1.myworkdayjobs.com",
+      "tenant": "globalfoundries",
+      "site": "External"
+    },
+    {
+      "company": "Broadcom",
+      "ats": "workday",
+      "host": "broadcom.wd1.myworkdayjobs.com",
+      "tenant": "broadcom",
+      "site": "External_Career"
+    },
+    {
+      "company": "Microchip",
+      "ats": "workday",
+      "host": "microchiphr.wd5.myworkdayjobs.com",
+      "tenant": "microchiphr",
+      "site": "External"
+    },
+    {
+      "company": "Cadence",
+      "ats": "workday",
+      "host": "cadence.wd1.myworkdayjobs.com",
+      "tenant": "cadence",
+      "site": "External_Careers"
+    },
+    {
+      "company": "Silicon Labs",
+      "ats": "workday",
+      "host": "silabs.wd1.myworkdayjobs.com",
+      "tenant": "silabs",
+      "site": "SiliconlabsCareers"
+    },
+    {
+      "company": "Samsung Semiconductor",
+      "ats": "workday",
+      "host": "sec.wd3.myworkdayjobs.com",
+      "tenant": "sec",
+      "site": "Samsung_Careers"
+    },
+    {
+      "company": "Entegris",
+      "ats": "workday",
+      "host": "entegris.wd1.myworkdayjobs.com",
+      "tenant": "entegris",
+      "site": "EntegrisCareers"
+    },
+    {
+      "company": "SemiDesignJobs (board)",
+      "ats": "semidesignjobs"
+    },
+    {
+      "company": "Semiconductor Engineering (board)",
+      "ats": "semiengineering"
+    }
+  ]
+}
