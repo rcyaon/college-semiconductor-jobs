@@ -2,7 +2,7 @@
 
 A daily-updated list of semiconductor internships and new-grad roles for [Olin EDGE Consortium](https://app.notion.com/p/EDGE-Consortium-Olin-40006a00232f80b69684dc0de1c93965) scholars, part of the national [EDGE Consortium](https://www.edgeconsortium.org/).
 
-### 🔎 [Search, filter and track your applications on the website →](https://rcyaon.github.io/semiconductor-jobs/)
+### 🔎 [Search, filter and track your applications on the website →](https://rcyaon.github.io/college-semiconductor-jobs/)
 
 The website also has an application tracker (Saved → Applied → Interviewing → Offer). It saves in your browser, and you can optionally sync it to your GitHub account to use it on any device.
 
@@ -1292,7 +1292,7 @@ Add an entry to [`sources.json`](sources.json), above the job boards (company li
 2. **Settings → Pages → Build and deployment → Source:** choose **GitHub Actions**.
 3. **Actions tab:** enable workflows, then open **Update jobs** and click **Run workflow** once.
 
-After that it runs every morning at 8am Eastern. It commits the updated README / data, and the website is live at `https://<user>.github.io/semiconductor-jobs/`.
+After that it runs every morning at 8am Eastern. It commits the updated README / data, and the website is live at `https://<user>.github.io/college-semiconductor-jobs/`.
 
 </details>
 
@@ -1303,7 +1303,7 @@ Out of the box, **Sync with GitHub** asks visitors to paste a personal access to
 
 For a one-click **Sign in with GitHub** button instead:
 
-1. Create an OAuth App at **GitHub → Settings → Developer settings → OAuth Apps**. Set both the Homepage URL and the Authorization callback URL to your site URL (e.g. `https://rcyaon.github.io/semiconductor-jobs/`).
+1. Create an OAuth App at **GitHub → Settings → Developer settings → OAuth Apps**. Set both the Homepage URL and the Authorization callback URL to your site URL (e.g. `https://rcyaon.github.io/college-semiconductor-jobs/`).
 2. Deploy [`worker/github-oauth.js`](worker/github-oauth.js) as a free Cloudflare Worker. Give it these settings:
    - `GITHUB_CLIENT_ID` (variable)
    - `GITHUB_CLIENT_SECRET` (secret)
