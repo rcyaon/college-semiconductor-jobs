@@ -7,6 +7,7 @@
 """
 import html
 import re
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta, timezone
 
@@ -226,11 +227,15 @@ def fetch_gem(session, c):
     ]
 
 
+EIGHTFOLD_DELAY = 0.6  # Eightfold blocks clients that page too fast, so go one page at a time
+
+
 def fetch_eightfold(session, c):
     """Eightfold career sites (Qualcomm, Lam Research, Infineon). 10 jobs per page."""
     host, domain = c["host"], c["domain"]
 
     def page(start):
+        time.sleep(EIGHTFOLD_DELAY)
         r = session.get(f"https://{host}/api/pcsx/search",
                         params={"domain": domain, "query": "", "location": "", "start": start, "sort_by": "timestamp"},
                         timeout=TIMEOUT)
@@ -239,7 +244,7 @@ def fetch_eightfold(session, c):
 
     first = page(0)
     positions = list(first.get("positions", []))
-    for data in _parallel_pages(page, range(10, min(first.get("count", 0), 5000), 10)):
+    for data in _parallel_pages(page, range(10, min(first.get("count", 0), 5000), 10), threads=1):
         positions += data.get("positions", [])
     return [
         _job(c["company"], p["name"], "; ".join(p.get("locations") or []), f"https://{host}{p['positionUrl']}",
@@ -253,6 +258,7 @@ def fetch_eightfold_v2(session, c):
     host, domain = c["host"], c["domain"]
 
     def page(start):
+        time.sleep(EIGHTFOLD_DELAY)
         r = session.get(f"https://{host}/api/apply/v2/jobs",
                         params={"domain": domain, "start": start, "num": 10, "query": "", "sort_by": "timestamp"},
                         timeout=TIMEOUT)
@@ -261,7 +267,7 @@ def fetch_eightfold_v2(session, c):
 
     first = page(0)
     positions = list(first.get("positions", []))
-    for data in _parallel_pages(page, range(10, min(first.get("count", 0), 5000), 10)):
+    for data in _parallel_pages(page, range(10, min(first.get("count", 0), 5000), 10), threads=1):
         positions += data.get("positions", [])
     return [
         _job(c["company"], p["name"], "; ".join(p.get("locations") or [p.get("location", "")]),

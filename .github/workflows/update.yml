@@ -1,0 +1,58 @@
+# Every morning: re-scrape jobs, commit the updated README / data, and publish the website.
+# One-time setup: Settings → Pages → Source: "GitHub Actions".
+name: Update jobs
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # daily at 12:00 UTC (8am Eastern)
+  workflow_dispatch:         # adds a "Run workflow" button on the Actions tab
+  push:
+    branches: [main]
+    paths: ["site/**"]       # redeploy the website when its code changes
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-jobs
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scrape.py
+      - name: Commit updated list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md site/jobs.json data/
+          git diff --staged --quiet || git commit -m "Update jobs $(date -u +%Y-%m-%d)"
+          git push
+
+  deploy:
+    needs: scrape
+    if: always() && (needs.scrape.result == 'success' || needs.scrape.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # pick up the commit the scrape job just pushed
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -97,7 +97,11 @@
       "ats": "workday",
       "host": "sec.wd3.myworkdayjobs.com",
       "tenant": "sec",
-      "site": "Samsung_Careers"
+      "site": "Samsung_Careers",
+      "aliases": [
+        "Samsung Electronics",
+        "Samsung"
+      ]
     },
     {
       "company": "Entegris",
@@ -307,7 +311,10 @@
     {
       "company": "Western Digital",
       "ats": "smartrecruiters",
-      "token": "westerndigital"
+      "token": "westerndigital",
+      "aliases": [
+        "WDC"
+      ]
     },
     {
       "company": "Renesas",
@@ -328,7 +335,11 @@
     {
       "company": "SK hynix America",
       "ats": "greenhouse",
-      "token": "skhynixamerica"
+      "token": "skhynixamerica",
+      "aliases": [
+        "SK hynix memory solutions America",
+        "SK hynix"
+      ]
     },
     {
       "company": "Ambiq",
