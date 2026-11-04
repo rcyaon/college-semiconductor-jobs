@@ -7,7 +7,7 @@ A daily-updated list of semiconductor internships and new-grad roles for [Olin E
 The website also has an application tracker (Saved → Applied → Interviewing → Offer). It saves in your browser, and you can optionally sync it to your GitHub account to use it on any device.
 
 <!-- JOBS:START -->
-> **Last updated Nov 4, 2026** · **827** internships · **321** new-grad roles · **52** companies · US only
+> **Last updated Nov 4, 2026** · **833** internships · **322** new-grad roles · **52** companies · US only
 
 **Jump to:** [Internships](#internships) · [New Grad](#new-grad) · [About this list](#about) · 🆕 = added in the last 7 days
 
@@ -19,6 +19,7 @@ The website also has an application tracker (Saved → Applied → Interviewing 
 | --- | --- | --- | --- | :---: |
 | **Texas Instruments** | 🆕 Analog Design Eng Intern | Santa Clara, CA, United States | 2026-11-04 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019660) |
 | **Texas Instruments** | 🆕 Analog Design Verification Eng Intern | Santa Clara, CA, United States | 2026-11-04 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019663) |
+| **Texas Instruments** | 🆕 Digital Design Verification Engineering Intern | Santa Clara, CA, United States | 2026-11-04 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019665) |
 | **Microchip** | 🆕 Intern (Data Analyst) | OR - Gresham | 2026-11-04 | [Apply](https://microchiphr.wd5.myworkdayjobs.com/External/job/OR---Gresham/Intern--Data-Analyst-_R4441-26) |
 | **KLA** | 🆕 Algorithm Engineering Intern | Ann Arbor, MI | 2026-11-04 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2641512-1) |
 | **KLA** | 🆕 Applications Engineering Intern | Ann Arbor, MI; Milpitas, CA | 2026-11-04 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Applications-Engineering-Intern_2642296-1) |
@@ -31,7 +32,12 @@ The website also has an application tracker (Saved → Applied → Interviewing 
 | **Lam Research** | 🆕 Summer 2027 - Electrical Engineering Intern - BS/MS | US-OR-Tualatin (1034) | 2026-11-03 | [Apply](https://careers.lamresearch.com/careers/job/1099556276556) |
 | **Cadence** | 🆕 IT Internship (Techstop Support) | SAN JOSE | 2026-11-03 | [Apply](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/IT-Internship--Techstop-Support-_R57021) |
 | **Renesas** | 🆕 Application Engineer Intern | San Jose, California, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/application-engineer-intern-11d163d1) |
+| **Micron** | 🆕 Intern - Process Integration – Advanced Packaging | Boise, Idaho, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/intern-process-integration-advanced-packaging-5f9cd3b4) |
+| **Micron** | 🆕 Intern - Memory Performance and Power Modeling | San Jose, California, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/intern-memory-performance-and-power-modeling-9f5a4c2f) |
+| **GlobalFoundries** | 🆕 Device Engineering Intern, Silicon Photonics (Summer 2027) | Malta, New York, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/device-engineering-intern-silicon-photonics-summer-2027-99153b34) |
+| **GlobalFoundries** | 🆕 Design Application Engineering Intern (Summer 2027) | Austin, Texas, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/design-application-engineering-intern-summer-2027-7fab0800) |
 | **GlobalFoundries** | 🆕 Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | 2026-11-02 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604595) |
+| **FormFactor** | 🆕 Electrical Design Automation Intern – AI & EDA Automation | Livermore, California, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/electrical-design-automation-intern-ai-eda-automation-af2aef91) |
 | **Lam Research** | 🆕 2027 Engineering Intern - AI/ML & Tool Innovation (SABRE Electroplating) - Masters/PhD (6 months) | US-OR-Tualatin (1034) | 2026-10-02 | [Apply](https://careers.lamresearch.com/careers/job/1099556323257) |
 | **Skyworks** | 🆕 RF Design Engineering Intern | Richardson, US, 75081; Hillsboro, US, 97124 | — | [Apply](https://careers.skyworksinc.com/job/Richardson-RF-Design-Engineering-Intern-TX-75081/1444511700/) |
 | **Skyworks** | 🆕 Timing Analog Mixed Signal Design Summer 2027 Intern | Nashua, NH, US, 03062 | — | [Apply](https://careers.skyworksinc.com/job/Nashua-Timing-Analog-Mixed-Signal-Design-Summer-2027-Intern-NH-03062/1447410000/) |
@@ -96,7 +102,7 @@ The website also has an application tracker (Saved → Applied → Interviewing 
 | **Skyworks** | 🆕 Manufacturing Quality Engineer Intern | Richardson, US, 75080 | — | [Apply](https://careers.skyworksinc.com/job/Richardson-Manufacturing-Quality-Engineer-Intern-TX-75080/1445093800/) |
 | **Skyworks** | 🆕 Research Engineering Intern | Richardson, US, 75080 | — | [Apply](https://careers.skyworksinc.com/job/Richardson-Research-Engineering-Intern-TX-75080/1445138600/) |
 | **Skyworks** | 🆕 Applications Engineering Intern | Richardson, US, 75081; Greensboro, US, 27409; Apopka, US,… | — | [Apply](https://careers.skyworksinc.com/job/Richardson-Applications-Engineering-Intern-TX-75081/1445103000/) |
-| **Skyworks** | 🆕 Sourcing Business Analyst Intern | Greensboro, US, 27409 | — | [Apply](https://careers.skyworksinc.com/job/Greensboro-Sourcing-Business-Analyst-Intern-NC-27409/1444253100/) |
+| **Skyworks** | 🆕 Sourcing Business Analyst Intern | Greensboro, US, 27409; Richardson, US, 75080 | — | [Apply](https://careers.skyworksinc.com/job/Greensboro-Sourcing-Business-Analyst-Intern-NC-27409/1444253100/) |
 | **Skyworks** | 🆕 Product Engineering Intern | Greensboro, US, 27409; Hillsboro, US, 97124 | — | [Apply](https://careers.skyworksinc.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1444661300/) |
 | **Skyworks** | 🆕 RFIC Design Intern | Chelmsford, US, 01824-2558 | — | [Apply](https://careers.skyworksinc.com/job/Chelmsford-RFIC-Design-Intern-MA-01824-2558/1445142700/) |
 | **Skyworks** | 🆕 Product Engineer Intern | Chelmsford, US, 01824-2558 | — | [Apply](https://careers.skyworksinc.com/job/Chelmsford-Product-Engineer-Intern-MA-01824-2558/1445115200/) |
@@ -857,6 +863,7 @@ The website also has an application tracker (Saved → Applied → Interviewing 
 | **Micron** | 🆕 New College Grad - AMHS Equipment Engineer - ID1 | Boise, ID - ID1 | 2026-11-03 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/AMHS-Equipment-Engineer---ID1_JR115382) |
 | **Microchip** | 🆕 Technician I- Process (Implant/Diffusion) | CO - Colorado Springs - East Cheyenne Mountain Blvd | 2026-11-03 | [Apply](https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Technician-I--Process--Implant-Diffusion-_R2526-26) |
 | **Microchip** | 🆕 Technician I-Product/Test (1st Shift) | PA - Mount Holly Springs | 2026-11-03 | [Apply](https://microchiphr.wd5.myworkdayjobs.com/External/job/PA---Mount-Holly-Springs/Technician-I-Product-Test--1st-Shift-_R4640-26) |
+| **Micron** | 🆕 New College Grad - HBM PYE Product Development Failure Analysis Engineer | Boise, Idaho, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/new-college-grad-hbm-pye-product-development-failure-analysis-engineer-30d5688d) |
 | **SambaNova** | 🆕 Machine Learning Engineer - New Grad | Austin, Texas, United States; San Jose, California, Unite… | 2026-11-03 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) |
 | **Micron** | 🆕 New College Grad: Engineer, Edge Systems Architecture | Boise, ID - Main Site | 2026-11-03 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad--Engineer--Edge-Systems-Architecture_JR116433) |
 | **Microchip** | 🆕 Technician I- Equipment (Implant) | CO - Colorado Springs - East Cheyenne Mountain Blvd | 2026-11-03 | [Apply](https://microchiphr.wd5.myworkdayjobs.com/External/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Technician-I--Equipment--Implant-_R4585-26) |
@@ -873,9 +880,9 @@ The website also has an application tracker (Saved → Applied → Interviewing 
 | **Texas Instruments** | 🆕 Career Accelerator Program - Product Engineer (MS/PhD) | Dallas, Texas, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/career-accelerator-program-product-engineer-ms-phd-04892816) |
 | **Texas Instruments** | 🆕 Test Engineer, Motor Drives | Dallas, Texas, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/test-engineer-motor-drives-a2229162) |
 | **Scientific Search** | 🆕 Digital Hardware FPGA Engineer | Twinsburg, Ohio, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/digital-hardware-fpga-engineer-454fef69) |
+| **Micron** | 🆕 New College Grad - Manufacturing Shift Process Engineer (ID1) | Boise, Idaho, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/new-college-grad-manufacturing-shift-process-engineer-id1-e3694990) |
 | **Micron** | 🆕 New College Grad- Dry Etch Equipment Engineer | Boise, ID - Main Site | 2026-11-02 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad--Dry-Etch-Equipment-Engineer_JR116865) |
 | **Micron** | 🆕 New College Grad - Manufacturing Development Engineering (MDE) Shift Engineer | Boise, ID - Main Site | 2026-11-02 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Manufacturing-Development-Engineering--MDE--Shift-Engineer_JR116705) |
-| **Micron** | 🆕 New College Grad - Manufacturing Shift Process Engineer (ID1) | Boise, Idaho, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/new-college-grad-manufacturing-shift-process-engineer-id1-e3694990) |
 | **KLA** | 🆕 Customer Engagement Applications Engineer - SWIFT | Hillsboro, Oregon, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/customer-engagement-applications-engineer-swift-16bdfa25) |
 | **Intel** | 🆕 Packaging Module Equipment Development Engineer | Phoenix, Arizona, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/packaging-module-equipment-development-engineer-de9ebfc5) |
 | **Intel** | 🆕 CPU Physical Design Engineer | Austin, Texas, United States | 2026-11-02 | [Apply](https://www.semidesignjobs.com/jobs/cpu-physical-design-engineer-8d7d1bfe) |
@@ -1174,11 +1181,18 @@ The website also has an application tracker (Saved → Applied → Interviewing 
 | **Applied Materials** | Chemist - New College Graduate | Santa Clara,CA | 30+ days ago | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Chemist---New-College-Graduate_R2512395) |
 
 <details>
-<summary>Source status (59 of 60 sources fetched)</summary>
+<summary>Source status (52 of 60 sources fetched)</summary>
 
 These sources failed this run. Their jobs from the previous run are shown instead.
 
 - **Applied Materials**: `RetryError: HTTPSConnectionPool(host='amat.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/amat/External/jobs (Caused by R`
+- **Cadence**: `RetryError: HTTPSConnectionPool(host='cadence.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/cadence/External_Careers/job`
+- **Entegris**: `RetryError: HTTPSConnectionPool(host='entegris.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/entegris/EntegrisCareers/jo`
+- **FormFactor**: `RetryError: HTTPSConnectionPool(host='formfactor.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/formfactor/FFI-Careers/jo`
+- **GlobalFoundries**: `RetryError: HTTPSConnectionPool(host='globalfoundries.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/globalfoundries/Exte`
+- **Micron**: `RetryError: HTTPSConnectionPool(host='micron.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/micron/External/jobs (Caused `
+- **SiFive**: `RetryError: HTTPSConnectionPool(host='sifive.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/sifive/sifivecareers/jobs (Ca`
+- **Silicon Labs**: `RetryError: HTTPSConnectionPool(host='silabs.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/silabs/SiliconlabsCareers/job`
 
 </details>
 <!-- JOBS:END -->
